@@ -1,0 +1,28 @@
+{
+  "name": "w01-mocha-testing",
+  "version": "1.0.0",
+  "main": "lib/palindromes.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lighthouse-labs/web-js-palindromes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lighthouse-labs/web-js-palindromes/issues"
+  },
+  "homepage": "https://github.com/lighthouse-labs/web-js-palindromes#readme",
+  "description": ""
+}
