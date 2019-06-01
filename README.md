@@ -25,25 +25,25 @@ This repo summarizes and directs any exercises and notes taken by [Jo](https://g
   * *capstone - no lectures wk10*
 
 ---
-## [Assignments](/lighthouse-labs/assignments)
+## Assignments
 
 Daily exercises and challenges. ***Bullets below for highlight assignments...***
 
-  * [Week 1](/lighthouse-assignments/week1)
+  * [Week 1](/lighthouse-assignments-week1)
     * passing CLI arguments when executing files in terminal -  **process.argv**  
     * scope, fn declarations, debugging & error messages, coercion, truthy/falsey, vim
     * data types, objects, character counting, character positioning, **music library**
     * **callbacks**, first class functions, **closures**, testing with mocha & chai
 
-  * [Week 2](/lighthouse-assignments/week2)
-  * [Week 3](/lighthouse-assignments/week3)
-  * [Week 4](/lighthouse-assignments/week4)
+  * [Week 2](/lighthouse-assignments-week2)
+  * [Week 3](/lighthouse-assignments-week3)
+  * [Week 4](/lighthouse-assignments-week4)
   * *midterm project*
-  * [Week 5](/lighthouse-assignments/week5)
-  * [Week 6](/lighthouse-assignments/week6)
-  * [Week 7](/lighthouse-assignments/week7)
-  * [Week 8](/lighthouse-assignments/week8)
-  * [Week 8](/lighthouse-assignments/week9)
+  * [Week 5](/lighthouse-assignments-week5)
+  * [Week 6](/lighthouse-assignments-week6)
+  * [Week 7](/lighthouse-assignments-week7)
+  * [Week 8](/lighthouse-assignments-week8)
+  * [Week 8](/lighthouse-assignments-week9)
   
   * *capstone*
 ---
