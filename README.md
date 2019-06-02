@@ -6,22 +6,22 @@ This repo summarizes and directs any exercises and notes taken by [Jo](https://g
 
 ---
 
-## [Lectures](jo-wood/lighthouse-lectures)
+## [Lectures](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures)
 
 * Exercises from each day of lecture, associated notes + breakouts. Including any personal notes or exercises from required readings.
 
-  * [Week 1](jo-wood/lighthouse-lectures/week1)
-    * Scopes, objects, callbacks, modules & testing [+ *Readings*]jo-wood(/lighthouse-readings/wk1.md)
+  * [Week 1](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week1)
+    * Scopes, objects, callbacks, modules & testing [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk1.md)
     
-  * [Week 2](jo-wood/lighthouse-lectures/week2) [+ *Readings*]jo-wood(/lighthouse-readings/wk2.md)
-  * [Week 3](jo-wood/lighthouse-lectures/week3) [+ *Readings*]jo-wood(/lighthouse-readings/wk3.md)
-  * [Week 4](jo-wood/lighthouse-lectures/week4) [+ *Readings*]jo-wood(/lighthouse-readings/wk4.md)
+  * [Week 2](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week2) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk2.md)
+  * [Week 3](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week3) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk3.md)
+  * [Week 4](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week4) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk4.md)
   * *midterm - no lectures wk5*
-  * [Week 5](jo-wood/lighthouse-lectures/week5) [+ *Readings*]jo-wood(/lighthouse-readings/wk5.md)
-  * [Week 6](jo-wood/lighthouse-lectures/week6) [+ *Readings*]jo-wood(/lighthouse-readings/wk6.md)
-  * [Week 7](jo-wood/lighthouse-lectures/week7) [+ *Readings*]jo-wood(/lighthouse-readings/wk7.md)
-  * [Week 8](jo-wood/lighthouse-lectures/week8) [+ *Readings*]jo-wood(/lighthouse-readings/wk8.md)
-  * [Week 8](jo-wood/lighthouse-lectures/week9) [+ *Readings*]jo-wood(/lighthouse-readings/wk9.md)
+  * [Week 5](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week5) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk5.md)
+  * [Week 6](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week6) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk6.md)
+  * [Week 7](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week7) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk7.md)
+  * [Week 8](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week8) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk8.md)
+  * [Week 9](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week9) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk9.md)
   * *capstone - no lectures wk10*
 
 ---
@@ -29,24 +29,24 @@ This repo summarizes and directs any exercises and notes taken by [Jo](https://g
 
 Daily exercises and challenges. ***Bullets below for highlight assignments...***
 
-  * [Week 1](jo-wood/lighthouse-assignments-week1)
+  * [Week 1](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week1)
     * passing CLI arguments when executing files in terminal -  **process.argv**  
     * scope, fn declarations, debugging & error messages, coercion, truthy/falsey, vim
     * data types, objects, character counting, character positioning, **music library**
     * **callbacks**, first class functions, **closures**, testing with mocha & chai
 
-  * [Week 2](jo-wood/lighthouse-assignments-week2)
-  * [Week 3](jo-wood/lighthouse-assignments-week3)
-  * [Week 4](jo-wood/lighthouse-assignments-week4)
+  * [Week 2](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week2)
+  * [Week 3](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week3)
+  * [Week 4](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week4)
   * *midterm project*
-  * [Week 5](jo-wood/lighthouse-assignments-week5)
-  * [Week 6](jo-wood/lighthouse-assignments-week6)
-  * [Week 7](jo-wood/lighthouse-assignments-week7)
-  * [Week 8](jo-wood/lighthouse-assignments-week8)
-  * [Week 8](jo-wood/lighthouse-assignments-week9)
+  * [Week 5](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week5)
+  * [Week 6](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week6)
+  * [Week 7](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week7)
+  * [Week 8](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week8)
+  * [Week 8](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-assignments-week9)
   
   * *capstone*
 ---
-## [General](jo-wood/lighthouse-labs/general-lighthouse)
+## [General](https://github.com/jo-wood/lighthouse-labs/general-lighthouse)
 
 ### [Exams](jo-wood/lighthouse-labs/exams)
