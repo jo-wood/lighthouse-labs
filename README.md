@@ -6,11 +6,11 @@ This repo summarizes and directs any exercises and notes taken by [Jo](https://g
 
 ---
 
-## [Lectures](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures)
+## [Lectures](https://github.com/jo-wood/lighthouse-lectures)
 
 * Exercises from each day of lecture, associated notes + breakouts. Including any personal notes or exercises from required readings.
 
-  * [Week 1](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week1)
+  * [Week 1](https://github.com/jo-wood/lighthouse-lectures/tree/master/week1)
     * Scopes, objects, callbacks, modules & testing [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk1.md)
     
   * [Week 2](https://github.com/jo-wood/lighthouse-labs/blob/master/jo-wood/lighthouse-lectures/tree/master/week2) [+ *Readings*](https://github.com/jo-wood/lighthouse-labs/blob/master/lighthouse-readings/blob/master/wk2.md)
